@@ -1,0 +1,7 @@
+L = ['Bart', 'Lisa', 'Adam']
+n=0
+i=0
+while n<3:
+    print('Hello,%s'%L[i])
+    n+=1
+    i+=1
